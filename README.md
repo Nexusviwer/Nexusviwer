@@ -17,5 +17,5 @@
    <a href="https://www.linkedin.com/in/lucas-gabriel-02a606242/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/lucas-gabriel-02a606242/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
- <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
+ <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/Nexusviwer/Nexusviwer/output/github-contribution-grid-snake.svg">
  
